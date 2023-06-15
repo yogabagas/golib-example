@@ -8,13 +8,13 @@ it may not have 100% test coverage. so if you plan to put exclusively on runtime
 ## Installation
 
 ```sh
-go get gitlab.sicepat.tech/platform/golib
+go get github.com/yogabagas/golib-example
 ```
 
 #### Usage
 
 ```sh
-import "gitlab.sicepat.tech/platform/golib/(feature_name)"
+import "github.com/yogabagas/golib-example/(feature_name)"
 ```
 
 ## Compatibility
