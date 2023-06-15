@@ -1,6 +1,6 @@
 # GoLib
 
-## _official go shared library at sicepat.com_
+## _official go shared library
 
 These helpers come from internal use cases and have started as an experiment to provide generic library.
 it may not have 100% test coverage. so if you plan to put exclusively on runtime, you must have a good test suite.
